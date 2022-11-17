@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6aSgaHsX+8Jh87K0CcCRpSInCe6zTVtdhX3QSvD55xprQo+bVjf52Li/uqfzHcZCy4P/dHOCF5NYF4ixMylzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YuraSuper2048\\RiderProjects\\Raylib3DProj\\Raylib3DProj\\Raylib3DProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YuraSuper2048\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\YuraSuper2048\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
